@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Resolvix Soluções Digitais" width="100%" />
+</p>
+
+---
+
 # 💻 Resolvix Soluções Digitais
 
 > **Soluções digitais que funcionam.**
@@ -25,7 +31,6 @@ Transformamos problemas complexos em soluções digitais simples, eficientes e e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Back-end
@@ -49,7 +54,6 @@ Transformamos problemas complexos em soluções digitais simples, eficientes e e
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📦 Projetos em destaque
@@ -59,7 +63,6 @@ Transformamos problemas complexos em soluções digitais simples, eficientes e e
 | 🔗 [Projeto 1](link) | Breve descrição do projeto | `React` `Node` |
 | 🔗 [Projeto 2](link) | Breve descrição do projeto | `Python` `MySQL` |
 | 🔗 [Projeto 3](link) | Breve descrição do projeto | `Next.js` `MongoDB` |
-
 
 ---
 
