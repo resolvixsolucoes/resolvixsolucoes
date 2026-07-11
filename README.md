@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Resolvix Soluções Digitais" width="100%" />
+  <img src="Banner%20Github.png" alt="Banner Resolvix Soluções Digitais" width="100%" />
 </p>
+
 
 ---
 
